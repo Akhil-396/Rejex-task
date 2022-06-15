@@ -1,0 +1,29 @@
+.header{
+    
+    background-color: red;
+    border-radius: 300px 200px;
+    text-align: center;
+}
+.second-header{
+    height: 150px;
+    width: 200px ;
+    background-color: green;
+    text-align: center;
+    resize: both;
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+}
+.container{
+    height: 200px;
+    width: 350px;
+    background-color: green;
+    text-align: center
+   
+}
+.container:hover{
+
+    width: 500px;
+   
+    transition: 5s;
+}

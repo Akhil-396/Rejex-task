@@ -1,0 +1,20 @@
+.myCanvas{
+    height: 400px;
+    width: 600px;
+  
+    border:1px solid #03af11;
+    
+    margin-left: 200px;
+}
+p{
+    font-weight: 900;
+    margin-left: 60px;
+}
+.heading{
+    background-color: solid green;
+}
+button{
+background-color: yellow;
+border-radius: 40px;
+padding: 10px;
+}
